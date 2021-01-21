@@ -1,0 +1,7 @@
+build_osx
+build_win
+build_unix
+cmake-build-debug
+.idea
+.vscode
+.DS_Store

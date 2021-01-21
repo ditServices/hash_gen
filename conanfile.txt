@@ -1,0 +1,5 @@
+[requires]
+xxhash/0.6.5@nshutchinson/stable
+
+[generators]
+cmake
